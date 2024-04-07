@@ -5,7 +5,6 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import Tilt from "react-parallax-tilt";
-import { css, keyframes } from '@emotion/react'
 
 function Home() {
 

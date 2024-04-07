@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Educard from "./EduCard";
-import logokmutnb from "../../Assets/img/logo_kmutnb.png";
 
 function Education() {
     return(

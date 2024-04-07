@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { Container, Row, Col } from "react-bootstrap";
 import logokmutnb from "../../Assets/img/logo_kmutnb.png";
 import logostc from "../../Assets/img/logoSTC.png"
 
