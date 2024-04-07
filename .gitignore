@@ -27,3 +27,5 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+Images/readme-img1.png
+Images/readme-img.png
